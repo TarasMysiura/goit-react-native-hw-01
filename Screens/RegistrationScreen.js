@@ -6,7 +6,7 @@ const RegistrationScreen = () => {
   return (
     // <View style={styles.container}>
     <ImageBackground
-      source={require("../assets/images/backgroundImage.jpg")}
+      source={require("../assets/images/BG/backgroundImage.jpg")}
       resizeMode="cover"
       style={styles.imageBackground}
     >
